@@ -1,3 +1,10 @@
+<div style="display: flex; flex-direction: row;">
+  <div style="display: flex; flex-direction: column;">
+    Working at <a href="https://remindermedia.com">ReminderMedia</a>
+  </div>
+  <div style="display: flex; flex-direction: column;"></div>
+</div>
+
 ## Hi there 👋
 
 <div align="center">
@@ -15,16 +22,18 @@
 
 <div align="center">
 
-Visit me at <a href="https://www.linkedin.com/in/toddholforty/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" /></a>
-
-</div>
-
-<div align="center">
+## 
 
 ## &#x1f4c8; My GitHub Stats
 
-<img src="https://github-readme-stats-kohl-gamma.vercel.app/api/top-langs/?username=tholf&theme=onedark" width="20%"/>
 <img src="https://github-readme-stats-kohl-gamma.vercel.app/api?username=tholf&theme=onedark&count_private=true&show_icons=true" alt="Todd Holforty's Github Stats" width="35%" />
+<img src="https://github-readme-stats-kohl-gamma.vercel.app/api/top-langs/?username=tholf&theme=onedark" width="20%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tholf&theme=dark" width="35%" />
+
+</div>
+<div style="display: flex; flex-direction: row;">
+
+Visit me...
+<a href="https://www.linkedin.com/in/toddholforty/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" /></a>
 
 </div>
