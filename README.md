@@ -1,15 +1,6 @@
 
 ## Hi there 👋
 
-<table width="100%">
-  <tr>
-    <td border="0">Developing SaaS sofware at <a href="https://remindermedia.com">ReminderMedia</a><br>
-    Thriving near Sand Lake, Michigan</td>
-    <td border="0">Visit me...
-<a href="https://www.linkedin.com/in/toddholforty/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" /></a></td>
-  </tr>
-</table>
-
 <div align="center">
   
 ### ⚡ Some stuff I do
