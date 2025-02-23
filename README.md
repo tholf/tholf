@@ -1,7 +1,7 @@
 
 ## Hi there 👋
-
-|  |  Developing SaaS sofware at <a href="https://remindermedia.com">ReminderMedia</a><br>>Thriving near Sand Lake, Michigan< |
+|:---:|:---:|
+| ad |  Developing SaaS sofware at <a href="https://remindermedia.com">ReminderMedia</a><br>Thriving near Sand Lake, Michigan |
 
 <div align="center">
   
