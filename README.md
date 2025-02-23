@@ -3,17 +3,17 @@
 
 <div style="display: flex; flex-direction: row;">
   <div style="display: flex; flex-direction: column;">
-
+    <div>Thriving near Sand Lake, Michigan</div>
   </div>
   <div style="display: flex; flex-direction: column;">
-    Developing SaaS sofware at <a href="https://remindermedia.com">ReminderMedia</a><br>
-    Thriving near Sand Lake, Michigan
+    <div>Developing SaaS sofware at <a href="https://remindermedia.com">ReminderMedia</a></div>
+    <div>Thriving near Sand Lake, Michigan</div>
   </div>
 </div>
 
 <div align="center">
   
-### ⚡ Languages
+### ⚡ Some stuff I do
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
@@ -23,7 +23,22 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
+<div align="center">
 
+### ⚡ Some other stuff I do
+
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+<br>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+<br>
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
 <div align="center">
 
 ## 
