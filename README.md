@@ -29,7 +29,7 @@
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 <br>
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-8620B6?style=for-the-badge&logo=vite&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-8620B6?style=for-the-badge&logo=vite&logoColor=F7A602)
 ![Webpack](https://img.shields.io/badge/Webpack-8ACFF1?style=for-the-badge&logo=webpack&logoColor=1D74BD)
 
 </div>
