@@ -1,11 +1,15 @@
+
 <div style="display: flex; flex-direction: row;">
   <div style="display: flex; flex-direction: column;">
-    Working at <a href="https://remindermedia.com">ReminderMedia</a>
-  </div>
-  <div style="display: flex; flex-direction: column;"></div>
-</div>
 
 ## Hi there 👋
+
+  </div>
+  <div style="display: flex; flex-direction: column;">
+    Developing SaaS sofware at <a href="https://remindermedia.com">ReminderMedia</a>
+    Thriving near Sand Lake, Michigan
+  </div>
+</div>
 
 <div align="center">
   
@@ -23,7 +27,6 @@
 <div align="center">
 
 ## 
-
 ## &#x1f4c8; My GitHub Stats
 
 <img src="https://github-readme-stats-kohl-gamma.vercel.app/api?username=tholf&theme=onedark&count_private=true&show_icons=true" alt="Todd Holforty's Github Stats" width="35%" />
