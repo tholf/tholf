@@ -1,6 +1,8 @@
 
 ## Hi there 👋
 
+|             |  Thriving near Sand Lake, Michigan                                                |
+|-------------|-----------------------------------------------------------------------------------|
 | ad          |  Developing SaaS sofware at <a href="https://remindermedia.com">ReminderMedia</a> |
 |             |  Thriving near Sand Lake, Michigan                                                |
 
