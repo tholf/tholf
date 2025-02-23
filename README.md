@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-<table>
+<table border="0" width="100%">
   <tr>
     <td>Developing SaaS sofware at <a href="https://remindermedia.com">ReminderMedia</a><br>
     Thriving near Sand Lake, Michigan</td>
