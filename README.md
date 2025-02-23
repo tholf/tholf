@@ -1,13 +1,13 @@
 
 ## Hi there 👋
 
-<div>
-  <div width="40%">I like stuff</div>
-  <div width="40%">Developing SaaS sofware at <a href="https://remindermedia.com">ReminderMedia</a></div>
+<div width="100%">
+  <div width="50%">I like stuff</div>
+  <div width="50%">Developing SaaS sofware at <a href="https://remindermedia.com">ReminderMedia</a></div>
 </div>
-<div>
-  <div width="40%">I like stuff</div>
-  <div width="40%">Thriving near Sand Lake, Michigan  </div>
+<div width="100%">
+  <div width="50%">I like stuff</div>
+  <div width="50%">Thriving near Sand Lake, Michigan  </div>
 </div>
 
 <div align="center">
