@@ -41,6 +41,10 @@
 ![Firebase](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cpanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 <br>
+![GitLab](https://img.shields.io/badge/firebase-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/cpanel-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/cpanel-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+<br>
 ![Stripe](https://img.shields.io/badge/stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 </div>
