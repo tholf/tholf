@@ -34,6 +34,7 @@
 <br>
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![NVM](https://img.shields.io/badge/nvm-F4DD4B?style=for-the-badge&logo=nvm&logoColor=black)
+![Composer](https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-8620B6?style=for-the-badge&logo=vite&logoColor=F7A602)
 ![Webpack](https://img.shields.io/badge/Webpack-8ACFF1?style=for-the-badge&logo=webpack&logoColor=1D74BD)
 <br>
