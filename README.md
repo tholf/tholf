@@ -1,12 +1,12 @@
 
+## Hi there 👋
+
 <div style="display: flex; flex-direction: row;">
   <div style="display: flex; flex-direction: column;">
 
-## Hi there 👋
-
   </div>
   <div style="display: flex; flex-direction: column;">
-    Developing SaaS sofware at <a href="https://remindermedia.com">ReminderMedia</a>
+    Developing SaaS sofware at <a href="https://remindermedia.com">ReminderMedia</a><br>
     Thriving near Sand Lake, Michigan
   </div>
 </div>
