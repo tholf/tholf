@@ -1,15 +1,7 @@
 
 ## Hi there 👋
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; width: 100%;">
-  <div style="display: flex; flex-direction: column; flex-basis: 100%; flex: 1;">
-    <div>Thriving near Sand Lake, Michigan</div>
-  </div>
-  <div style="display: flex; flex-direction: column; flex-basis: 100%; flex: 1;">
-    <div>Developing SaaS sofware at <a href="https://remindermedia.com">ReminderMedia</a></div>
-    <div>Thriving near Sand Lake, Michigan</div>
-  </div>
-</div>
+|  |  Developing SaaS sofware at <a href="https://remindermedia.com">ReminderMedia</a><br>>Thriving near Sand Lake, Michigan< |
 
 <div align="center">
   
