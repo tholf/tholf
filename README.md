@@ -2,11 +2,11 @@
 ## Hi there 👋
 
 <div>
-  <div width="40%"></div>
+  <div width="40%">I like stuff</div>
   <div width="40%">Developing SaaS sofware at <a href="https://remindermedia.com">ReminderMedia</a></div>
 </div>
 <div>
-  <div width="40%"></div>
+  <div width="40%">I like stuff</div>
   <div width="40%">Thriving near Sand Lake, Michigan  </div>
 </div>
 
