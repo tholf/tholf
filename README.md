@@ -13,11 +13,15 @@
 </div>
 
 <div align="center">
+
 ## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
+
 <a href="https://www.linkedin.com/in/toddholforty/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" /></a>
+
 </div>
 
 <div align="center">
+
 ## &#x1f4c8; My GitHub Stats
 
 <img src="https://github-readme-stats-kohl-gamma.vercel.app/api/top-langs/?username=tholf&theme=onedark" width="25%"/>
