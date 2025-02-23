@@ -16,7 +16,8 @@
 ### ⚡ Some other stuff I do
 
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![dotNET](https://img.shields.io/badge/.NET-5029CD?style=for-the-badge&logo=dotnet&logoColor=white)<br>
+![dotNET](https://img.shields.io/badge/.NET-5029CD?style=for-the-badge&logo=dotnet&logoColor=white)
+<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue-33475B?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-C715AD?style=for-the-badge&logo=angular&logoColor=D60030)
@@ -28,6 +29,8 @@
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 <br>
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-F4BA2C?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-1D74BA?style=for-the-badge&logo=webpack&logoColor=white)
 
 </div>
 <div align="center">
