@@ -16,9 +16,10 @@
 ### ⚡ Some other stuff I do
 
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![dotNET](https://img.shields.io/badge/.NET-5029CD?style=for-the-badge&logo=dotnet&logoColor=white)<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue-33475B?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-ADADAD?style=for-the-badge&logo=angular&logoColor=D60030)
+![Angular](https://img.shields.io/badge/Angular-C715AD?style=for-the-badge&logo=angular&logoColor=D60030)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 <br>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
