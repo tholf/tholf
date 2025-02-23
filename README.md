@@ -20,6 +20,7 @@
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![dotNET](https://img.shields.io/badge/.NET-5029CD?style=for-the-badge&logo=dotnet&logoColor=white)
 <br>
+![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=react&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue-33475B?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-193857?style=for-the-badge&logo=angular&logoColor=D60030)
