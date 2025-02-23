@@ -31,8 +31,7 @@
 </div>
 <div align="center">
 
-## 
-## &#x1f4c8; My GitHub Stats
+### &#x1f4c8; My GitHub Stats
 
 <img src="https://github-readme-stats-kohl-gamma.vercel.app/api?username=tholf&theme=onedark&count_private=true&show_icons=true" alt="Todd Holforty's Github Stats" width="35%" />
 <img src="https://github-readme-stats-kohl-gamma.vercel.app/api/top-langs/?username=tholf&theme=onedark" width="20%"/>
