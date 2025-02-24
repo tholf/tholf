@@ -38,14 +38,14 @@
 ![Composer](https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8620B6?style=for-the-badge&logo=vite&logoColor=F7A602)
 ![Webpack](https://img.shields.io/badge/Webpack-8ACFF1?style=for-the-badge&logo=webpack&logoColor=1D74BD)
-<br>
+
+### ⚡ Even More Stuff I Play With
+
 ![Amazon Web Services](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cpanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-
-### ⚡ Even More Stuff To Play With
-
+<br>
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
