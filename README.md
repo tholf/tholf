@@ -10,9 +10,9 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![ASP](https://img.shields.io/badge/ASP-000000?style=for-the-badge&logoColor=E6484F&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+Cjxzdmcgd2lkdGg9IjM2IiBoZWlnaHQ9IjMwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGVuYWJsZS1iYWNrZ3JvdW5kPSIyMCAxNCAzMCAyMiIgdmVyc2lvbj0iMS4xIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KIDxnIGNsYXNzPSJsYXllciI+CiAgPHRpdGxlPkxheWVyIDI8L3RpdGxlPgogIDxyZWN0IGZpbGw9IiMwZjUzZmYiIGhlaWdodD0iMzAiIGlkPSJzdmdfNCIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjAiIHdpZHRoPSIzNiIgeD0iMCIgeT0iMCIvPgogPC9nPgogPGcgY2xhc3M9ImxheWVyIj4KICA8dGl0bGU+TGF5ZXIgMTwvdGl0bGU+CiAgPHRleHQgZmlsbD0iI2ZmZmZmZiIgZm9udC1mYW1pbHk9IlNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSJib2xkIiBpZD0ic3ZnXzIiIGxldHRlci1zcGFjaW5nPSIxMkFTUCIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHRleHRMZW5ndGg9IjM2IiB3b3JkLXNwYWNpbmc9IjAiIHg9IjE4LjIiIHhtbDpzcGFjZT0icHJlc2VydmUiIHk9IjIzLjciPkFTUDwvdGV4dD4KIDwvZz4KPC9zdmc+)
 ![CSharp](https://img.shields.io/badge/C%23-2F086E?style=for-the-badge&logo=sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![ASP](https://img.shields.io/badge/ASP-000000?style=for-the-badge&logoColor=E6484F&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+Cjxzdmcgd2lkdGg9IjM2IiBoZWlnaHQ9IjMwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGVuYWJsZS1iYWNrZ3JvdW5kPSIyMCAxNCAzMCAyMiIgdmVyc2lvbj0iMS4xIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KIDxnIGNsYXNzPSJsYXllciI+CiAgPHRpdGxlPkxheWVyIDI8L3RpdGxlPgogIDxyZWN0IGZpbGw9IiMwZjUzZmYiIGhlaWdodD0iMzAiIGlkPSJzdmdfNCIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjAiIHdpZHRoPSIzNiIgeD0iMCIgeT0iMCIvPgogPC9nPgogPGcgY2xhc3M9ImxheWVyIj4KICA8dGl0bGU+TGF5ZXIgMTwvdGl0bGU+CiAgPHRleHQgZmlsbD0iI2ZmZmZmZiIgZm9udC1mYW1pbHk9IlNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSJib2xkIiBpZD0ic3ZnXzIiIGxldHRlci1zcGFjaW5nPSIxMkFTUCIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHRleHRMZW5ndGg9IjM2IiB3b3JkLXNwYWNpbmc9IjAiIHg9IjE4LjIiIHhtbDpzcGFjZT0icHJlc2VydmUiIHk9IjIzLjciPkFTUDwvdGV4dD4KIDwvZz4KPC9zdmc+)
 <br>
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=react&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,6 +40,7 @@
 ![NVM](https://img.shields.io/badge/nvm-F4DD4B?style=for-the-badge&logo=nvm&logoColor=black)
 ![Composer](https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8620B6?style=for-the-badge&logo=vite&logoColor=F7A602)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8ACFF1?style=for-the-badge&logo=webpack&logoColor=1D74BD)
 
 ### ⚡ Even More Stuff I Play With
